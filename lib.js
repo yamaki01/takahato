@@ -60,7 +60,7 @@ class Plant {
     }
   }
   draw() {
-    fill('#56a764');
+    fill('#5664a7');
     circle(this.p.x, this.p.y, this.size);
   }
 }

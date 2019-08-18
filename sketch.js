@@ -16,7 +16,7 @@ function setup() {
 }
 
 function draw() {
-  background(1,100,100);
+  background(50,100,50);
   plants.update();
   plants.draw();
   textSize(32);
