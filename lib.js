@@ -56,7 +56,7 @@ class Plant {
     if (this.count < DENSITY) {
       this.size += 1;
     } else {
-      this.size -= 2;
+      this.size -= 4;
     }
   }
   draw() {
